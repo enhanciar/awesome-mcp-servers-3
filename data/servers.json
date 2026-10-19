@@ -2974,6 +2974,24 @@
     }
   },
   {
+    "name": "Enhanciar",
+    "url": "https://github.com/enhanciar/enhanciar-mcp",
+    "description": "A company brain that answers from your Slack, Gmail, Notion and Drive with the source, then drafts the reply or ticket for you to approve. Hosted; needs an Enhanciar API key (paid plans).",
+    "category": "communication-and-productivity",
+    "language": "Other",
+    "provider": "Enhanciar",
+    "tags": [
+      "knowledge-base",
+      "enterprise-search",
+      "slack",
+      "hosted"
+    ],
+    "official": true,
+    "endpoints": {
+      "streamableHttp": "https://enhanciar.in/enhanciar/mcp/"
+    }
+  },
+  {
     "name": "Shortform Kit",
     "url": "https://shortformkit.com/mcp-server/",
     "description": "Read, download and Whisper-transcribe public Instagram Reels, TikToks and YouTube videos, plus sourced 2026 upload specs and creator data; free, no key.",
